@@ -40,5 +40,11 @@
         object-fit: cover;
         height: 55%;
     }
+    .button a:hover {
+        background-color: #F0CE5A;
+    }
+    .button a {
+        transition: 0.5s ease-in-out;
+    }
 }
 /* LG BREAKPOINT */
